@@ -8,6 +8,8 @@ Clone repo and npm install for both server and client folders
 
 # Running the App
 
+NOTE: You will need your own MongoDB database and Firebase account to run this locally. Put your MongoDB connection string for the value of MONGO in the .env file. Replace the code in the firebase.js file with the code given to you from your firebase project.
+
 Run the server and client using npm start in their respective folders
 
 # TODO(Maybe)
